@@ -6,3 +6,4 @@ This is README file important
 >>>>>>> feature-greeting
  This is a new feature
 Modification in main branch
+Modification in main branch.
